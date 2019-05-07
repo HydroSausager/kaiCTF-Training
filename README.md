@@ -16,3 +16,5 @@
 Дан [.waw файл](https://vk.com/doc232954835_499514389)
 + Решение: в подсказке сказано, что нам нужен spetrum analyzer, берем [первый из гугла](https://academo.org/demos/spectrum-analyzer/)
 ![](https://pp.userapi.com/c851024/v851024089/116fb1/VVjlT6QnKRs.jpg)
+# The Vault
++ Решение: (https://www.youtube.com/watch?v=VRgAL5y4HAQ)
